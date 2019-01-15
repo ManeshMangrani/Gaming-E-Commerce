@@ -1,0 +1,17 @@
+
+@charset "utf-8";
+/* CSS Document */
+
+.pagewrap { width:960px; margin:0 auto; padding-top:20px; background-color:#FFF; overflow:hidden; }
+.pagewrap h2{ font-family:"Comic Sans MS", cursive; text-transform:uppercase;}
+.pagewrap h3 { }
+.sec_image img { width:200px; height:200px;}
+.sec_name h2 {}
+.social_sec { border-bottom:2px solid #CCC;}
+.social_sec a { text-decoration:none; color:#09F; font-size:16px;}
+.social_sec i {margin-right:3px; color:#09F; font-size:25px; }
+.content{ margin-top:20px;}
+.content i { margin-right:3px;}
+.side_bar{ margin-top:20px;}
+.side_bar i { margin-right:3px;}
+.sidebar h3 { }
